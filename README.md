@@ -69,6 +69,8 @@ Kindle Scribe no solo remedia el papel: lo reinventa. Y en ese proceso, también
 
 # Caso 2: Detroit: Become Human – Narrativa interactiva y agencia del usuario
 
+![Imagen Kindle Scribe](https://cdn1.epicgames.com/columbine/offer/DETROIT_1-2560x1440-4fd6608a56880dc5d8e9d968517113c3.jpg)
+
 ## ¿Cómo funciona y qué medios incorpora?
 
 Detroit: Become Human (Quantic Dream, 2018) es un videojuego narrativo que se sitúa en un futuro cercano (año 2038) donde los androides son parte cotidiana de la sociedad, pero comienzan a desarrollar emociones y conciencia. El jugador controla a tres personajes —androides con diferentes roles y perspectivas— y, a través de sus decisiones, determina el curso de la historia.
@@ -122,4 +124,4 @@ Detroit: Become Human encarna el futuro de la narrativa digital, donde la hibrid
 - Trailer oficial de Detroit: [https://www.youtube.com/watch?v=PcLAEoYS2j8](https://www.youtube.com/watch?v=PcLAEoYS2j8)
 
 ---
-
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
