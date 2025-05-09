@@ -1,9 +1,12 @@
-# PEC3: Manovich Reloaded  
-## Autor/a: [Tu nombre]  
-## Asignatura: Cultura Digital  
-## Repositorio: PEC3_Manovich_Reloaded
+# PEC3: Visionando el futuro con las gafas de Manovich
 
----
+### Recurso de aprendizaje de Cultura Digital 
+
+Autor: Denis Campayo Sánchez 
+
+Fecha: 10/05/2025
+
+![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
 ## ¿Qué es la hibridación de medios?
 
@@ -23,6 +26,8 @@ Una hibridación se distingue cuando:
 ---
 
 # Caso 1: Kindle Scribe – Escritura y lectura en la era postimpresa
+
+![Imagen Kindle Scribe](https://m.media-amazon.com/images/I/81aypk0IuTL._AC_SL1500_.jpg)
 
 ## ¿Cómo funciona y qué medios incorpora?
 
@@ -66,32 +71,46 @@ Kindle Scribe no solo remedia el papel: lo reinventa. Y en ese proceso, también
 
 ## ¿Cómo funciona y qué medios incorpora?
 
-*Detroit: Become Human* (Quantic Dream, 2018) es un videojuego de narrativa interactiva ambientado en un futuro donde los androides desarrollan conciencia. El jugador toma decisiones que afectan el desarrollo de la historia, siguiendo a tres personajes diferentes a lo largo de múltiples rutas narrativas posibles.
+Detroit: Become Human (Quantic Dream, 2018) es un videojuego narrativo que se sitúa en un futuro cercano (año 2038) donde los androides son parte cotidiana de la sociedad, pero comienzan a desarrollar emociones y conciencia. El jugador controla a tres personajes —androides con diferentes roles y perspectivas— y, a través de sus decisiones, determina el curso de la historia.
+
+El juego destaca por su estructura ramificada, donde cada elección tiene consecuencias que pueden alterar profundamente el desarrollo narrativo. Existen múltiples finales, tramas que pueden derivarse o cortarse abruptamente, personajes que pueden morir en cualquier momento o evolucionar según las decisiones tomadas.
 
 Los medios que incorpora son:
-- **Cine** (estructura narrativa, estética visual, dirección de cámara)
-- **Videojuego** (interactividad, control de personajes, navegación)
-- **Novela gráfica** (narración episódica y dialogada)
-- **Base de datos** (estructura de árbol de decisiones)
-- **Audio y música sinfónica** (inmersión emocional)
+- **Narrativa audiovisual cinematográfica**: Actuaciones capturadas por motion capture, puesta en escena fílmica, edición, iluminación y banda sonora.
+  
+- **Interactividad propia del videojuego**: Decisiones del jugador, control del personaje, resolución de acciones mediante QTE (quick time events) o investigación del entorno.
+  
+- **Diseño gráfico y visual** Entornos hiperrealistas, interfaces minimalistas y estilizadas.
+  
+- **Base de datos y lógica algorítmica**: Estructura no lineal con múltiples bifurcaciones que se visualizan al final de cada capítulo.
+  
+- **Narrativa ética y política**: Toma de decisiones morales, dilemas sociales y temas como el racismo, la libertad, la obediencia o el sacrificio.
 
-Es una plataforma que no solo combina estos medios, sino que los **fusiona funcionalmente** en una narrativa donde el usuario es coautor.
+Más allá de ser una simple combinación de medios, el juego representa una experiencia híbrida, donde el cine y el videojuego se funden hasta el punto de crear una nueva forma de narrativa: una historia que no solo se observa, sino que se vive y se moldea.
 
 ## ¿Qué tipo de hibridación se puede identificar?
 
-La hibridación de *Detroit* se da entre **narrativas audiovisuales tradicionales y lógicas interactivas** de los nuevos medios. Según Manovich:
+Desde la perspectiva de Manovich, Detroit: Become Human representa un ejemplo avanzado de hibridación estructural y funcional entre medios.
 
-- **Remediación** del cine: se utilizan lenguajes cinematográficos (montaje, banda sonora, actuación), pero al servicio de una narrativa interactiva.
-- **Base de datos + Narrativa**: la historia se construye como una red de rutas posibles, donde el jugador elige el camino.
-- **Variabilidad**: la experiencia cambia radicalmente según las decisiones del usuario.
-- **Modularidad**: cada escena o misión es un módulo que puede activarse o no, según elecciones anteriores.
-- **Automatización**: el sistema gestiona consecuencias y estructura narrativa en tiempo real.
+- **Remediación** del cine: El lenguaje del cine es evidente: planos cuidadosamente compuestos, actuaciones realistas, diseño sonoro envolvente. Sin embargo, este lenguaje se pone al servicio de una experiencia interactiva donde el usuario no es espectador pasivo, sino agente narrativo. El cine se reinterpreta en clave participativa.
+  
+- **Base de datos + Narrativa**: El juego presenta la narrativa como un conjunto de posibilidades organizadas en árbol. Cada decisión activa o desactiva nodos. Esta lógica algorítmica subyace a toda la estructura narrativa. Como explica Manovich, el software de los nuevos medios organiza la experiencia no solo como una secuencia lineal, sino como una navegación en un espacio de datos.
+  
+- **Variabilidad**: No hay una historia única. Dos jugadores pueden vivir experiencias completamente distintas. Algunos personajes pueden morir en el primer acto, otros cambiar radicalmente su personalidad o sus alianzas. Esta variabilidad crea una narrativa personalizada e irrepetible.
+  
+- **Transcodificación**: Se da una fusión entre lo cultural (narración, actuación, guión, puesta en escena) y lo computacional (algoritmos de decisión, estructuras de datos, motores gráficos). El jugador actúa dentro de una interfaz algorítmica que traduce sus acciones en eventos narrativos.
+  
+- **Automatización**: El motor del juego calcula en segundo plano las rutas narrativas posibles. Al final de cada capítulo, una interfaz muestra el “árbol de decisiones” recorrido por el jugador, con rutas bloqueadas o alternativas abiertas, en un proceso transparente que visibiliza la lógica interna del software.
 
-La interfaz del juego es, como diría Manovich, una forma cultural: un espacio donde se cruzan códigos estéticos, técnicos y éticos.
+Este tipo de hibridación no se limita a una “historia con opciones”, sino que genera una nueva forma de creación cultural: una narración viviente, moldeada en tiempo real por las elecciones del usuario.
 
 ## Valoración personal
 
-*Detroit: Become Human* no es solo un videojuego, sino un experimento narrativo que obliga al jugador a reflexionar sobre sus valores, empatizar con seres artificiales y explorar futuros posibles. La riqueza de su estructura narrativa y su capacidad para generar experiencias únicas lo convierten en uno de los ejemplos más potentes de hibridación mediática en la era digital. A través del juego, el usuario no solo consume historia: la crea, la vive y la transforma.
+Lo que hace único a Detroit: Become Human no es solo su factura técnica o su nivel de producción, sino su capacidad para implicar emocionalmente al jugador a través de decisiones morales complejas. Cada elección pesa. La empatía que se genera con los personajes, especialmente sabiendo que sus destinos están en nuestras manos, produce una experiencia profundamente humana y reflexiva.
+
+Desde el punto de vista mediático, el juego muestra cómo los medios tradicionales (cine, novela, teatro) pueden transformarse en nuevos formatos gracias a la lógica digital. No se trata de agregar opciones a una historia, sino de redefinir qué significa contar y vivir una historia.
+
+Detroit: Become Human encarna el futuro de la narrativa digital, donde la hibridación no es una opción estética, sino la condición esencial de una experiencia que atraviesa lo visual, lo sonoro, lo interactivo y lo ético.
 
 ---
 
