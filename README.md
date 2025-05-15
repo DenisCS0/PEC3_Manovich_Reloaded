@@ -6,7 +6,7 @@ Cultura Digital
 
 15/05/2025
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Cultura Digital](https://media.realinstitutoelcano.org/wp-content/uploads/2022/04/20220503-post-espectador-global-cultura-culture.jpg) 
 
 ## ¿Qué es la hibridación de medios?
 
