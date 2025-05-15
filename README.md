@@ -1,10 +1,10 @@
 # PEC3: Visionando el futuro con las gafas de Manovich
 
-### Recurso de aprendizaje de Cultura Digital 
+Denis Campayo Sánchez 
 
-Autor: Denis Campayo Sánchez 
+Cultura Digital
 
-Fecha: 10/05/2025
+15/05/2025
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
